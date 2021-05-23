@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/{pbhoraskar911}/count.svg)
+![](https://komarev.com/ghpvc/?username=pbhoraskar911&color=blue&label=PROFILE+VIEWS)
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{pbhoraskar911}/count.svg) -->
 
 <!--
 **pbhoraskar911/pbhoraskar911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
